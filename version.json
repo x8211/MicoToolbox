@@ -1,0 +1,8 @@
+{
+  "version": "1.0.3",
+  "releaseNotes": "功能更新：安装AAB、自动检测更新",
+  "downloadUrl": {
+    "macos": "https://github.com/x8211/MicoToolbox/releases/download/1.0.2/MicoToolbox-1.0.2.dmg",
+    "windows": ""
+  }
+}
